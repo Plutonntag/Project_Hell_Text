@@ -21,11 +21,12 @@ class Object_Hell
 	bool Passive;
 	bool Bonus;
 	Type ElementType;
+	std::string Description;
 
 
 public:
 
-	Object_Hell(std::string n, bool p, bool b, Type e);
+	Object_Hell(std::string n, bool p, bool b, Type e, std::string d);
 	 
 	~Object_Hell();
 
@@ -41,8 +42,10 @@ public:
 
 	Type getType();
 	void setType(Type e);
+	std::string GetTypeString();
 
-
+	std::string getDes();
+	void setDes(std::string d);
 
 
 
