@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAE3133-3F8D-49B1-86A1-0A6EA67251EB}|Project_Hell_Text\\Project_Hell_Text.vcxproj|C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EAE3133-3F8D-49B1-86A1-0A6EA67251EB}|Project_Hell_Text\\Project_Hell_Text.vcxproj|solutionrelative:Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_Hell_Text.cpp",
+              "DocumentMoniker": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp",
+              "RelativeDocumentMoniker": "Project_Hell_Text\\Project_Hell_Text.cpp",
+              "ToolTip": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp",
+              "RelativeToolTip": "Project_Hell_Text\\Project_Hell_Text.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T18:47:59.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

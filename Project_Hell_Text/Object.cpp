@@ -1,8 +1,9 @@
 #include "Object.h"
 
-Object_Hell::Object_Hell(std::string n, bool p, bool b, Type e, std::string userType)
-{
 
+
+Object_Hell::Object_Hell(std::string n, bool p, bool b, Type e, std::string d)
+{
 }
 
 Object_Hell::~Object_Hell()
@@ -14,7 +15,7 @@ Object_Hell::~Object_Hell()
 
 std::string Object_Hell::getName()
 {
-	return std::string();
+	return Name;
 }
 
 void Object_Hell::setName(std::string n)
@@ -67,6 +68,16 @@ std::string Object_Hell::GetTypeString()
 		return "heal";
 	case Type::vision:
 		return "vision";
+	case Type::Truth:
+		return "Truth";
+	case Type::Backloop:
+		return "Backloop";
+	case Type::Luck:
+		return "Luck";
+	case Type::Withdraw:
+		return "Withdraw";
+	case Type::Death:
+		return "Death";
 	
 	}
 }
@@ -75,6 +86,12 @@ std::string Object_Hell::GetTypeString()
 
 std::string Object_Hell::getDes()
 {
-	return std::string();
+	return Name;
+}
+
+void Object_Hell::setDes(std::string d)
+
+{
+	Description = d
 }
 
