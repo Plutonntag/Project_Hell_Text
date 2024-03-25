@@ -27,8 +27,12 @@ class Object_Hell
 public:
 
 	Object_Hell(std::string n, bool p, bool b, Type e, std::string d);
+
+
 	 
 	~Object_Hell();
+
+	Potion();
 
 
 	std::string getName();

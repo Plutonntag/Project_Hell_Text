@@ -3,8 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EAE3133-3F8D-49B1-86A1-0A6EA67251EB}|Project_Hell_Text\\Project_Hell_Text.vcxproj|C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8EAE3133-3F8D-49B1-86A1-0A6EA67251EB}|Project_Hell_Text\\Project_Hell_Text.vcxproj|solutionrelative:Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_Hell_Text\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_Hell_Text\\Project_Hell_Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Prog_Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Dragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_Hell_Text\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130EC5B6-C27C-424D-A81C-9CCE0F878F6E}|..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_fd5afcbf\\SingleFileISense\\_sfi_3b62177a-f358-4b0a-b925-f654c24bd2f8_.vcxproj|E:\\GAME\\ALGO\\PROG_OBJECT\\PROG_OBJECT\\DRAGON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +31,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.h",
+              "RelativeDocumentMoniker": "Project_Hell_Text\\Object.h",
+              "ToolTip": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.h",
+              "RelativeToolTip": "Project_Hell_Text\\Object.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T18:48:21.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.cpp",
+              "RelativeDocumentMoniker": "Project_Hell_Text\\Object.cpp",
+              "ToolTip": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Object.cpp",
+              "RelativeToolTip": "Project_Hell_Text\\Object.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T18:48:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Project_Hell_Text.cpp",
               "DocumentMoniker": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp",
               "RelativeDocumentMoniker": "Project_Hell_Text\\Project_Hell_Text.cpp",
               "ToolTip": "C:\\Users\\Ilian\\source\\repos\\Plutonntag\\Project_Hell_Text\\Project_Hell_Text\\Project_Hell_Text.cpp",
               "RelativeToolTip": "Project_Hell_Text\\Project_Hell_Text.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T18:47:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prog_Object.cpp",
+              "DocumentMoniker": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Prog_Object.cpp",
+              "ToolTip": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Prog_Object.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T20:03:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dragon.cpp",
+              "DocumentMoniker": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Dragon.cpp",
+              "ToolTip": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Dragon.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T20:09:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dragon.h",
+              "DocumentMoniker": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Dragon.h",
+              "ToolTip": "E:\\GAME\\Algo\\Prog_Object\\Prog_Object\\Dragon.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T20:14:15.062Z",
               "EditorCaption": ""
             }
           ]

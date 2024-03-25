@@ -11,6 +11,16 @@ Object_Hell::~Object_Hell()
 
 }
 
+Object_Hell::Potion()
+{
+	setName("LA_potion");
+	setPassive(false);
+	setBonus(true);
+	setType(heal);
+	setDes(" Un potion de soin des plus basiques");
+
+}
+
 		//NAME
 
 std::string Object_Hell::getName()
